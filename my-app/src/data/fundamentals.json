@@ -1,0 +1,59 @@
+[
+  {
+    "topic": "OSI Model",
+    "description": "A conceptual framework used to understand network interactions in seven layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.",
+    "layers": [
+      "Physical",
+      "Data Link",
+      "Network",
+      "Transport",
+      "Session",
+      "Presentation",
+      "Application"
+    ],
+    "keyPoints": [
+      "Helps standardize network communication functions.",
+      "Each layer serves the layer above and is served by the layer below."
+    ]
+  },
+  {
+    "topic": "TCP/IP Model",
+    "description": "A practical, four-layer networking model that maps to real-world protocols: Link, Internet, Transport, and Application layers.",
+    "layers": [
+      "Link",
+      "Internet",
+      "Transport",
+      "Application"
+    ],
+    "keyPoints": [
+      "Foundation of the modern Internet.",
+      "Includes protocols like IP, TCP, UDP, HTTP, and FTP."
+    ]
+  },
+  {
+    "topic": "Subnetting",
+    "description": "A technique used to divide an IP network into smaller, more efficient sub-networks or subnets.",
+    "keyPoints": [
+      "Improves network performance and security.",
+      "Uses subnet masks and CIDR notation.",
+      "Example: 192.168.1.0/24 divided into 192.168.1.0/25 and 192.168.1.128/25."
+    ]
+  },
+  {
+    "topic": "VLAN (Virtual Local Area Network)",
+    "description": "A logical subgroup within a physical network that isolates broadcast domains at the data link layer.",
+    "keyPoints": [
+      "Segregates network traffic without additional hardware.",
+      "Improves security and reduces broadcast traffic.",
+      "Configured on managed switches and routers."
+    ]
+  },
+  {
+    "topic": "Routing",
+    "description": "The process of selecting paths in a network along which to send data packets.",
+    "keyPoints": [
+      "Uses routing tables and protocols like OSPF, EIGRP, BGP.",
+      "Routers forward packets based on destination IP addresses."
+    ]
+  }
+]

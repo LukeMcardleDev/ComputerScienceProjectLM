@@ -1,0 +1,91 @@
+[
+  {
+    "model": "Cisco ISR 4331",
+    "series": "ISR 4000 Series",
+    "description": "A modular branch router offering advanced services like voice, security, and WAN optimization.",
+    "interfaces": {
+      "gigabitEthernet": 3,
+      "NIMSlots": 2,
+      "SMSlots": 1
+    },
+    "features": [
+      "Cisco IOS XE",
+      "Integrated security",
+      "VPN support",
+      "Cloud-ready"
+    ]
+  },
+  {
+    "model": "Cisco ASR 1001-X",
+    "series": "ASR 1000 Series",
+    "description": "An aggregation services router for medium to large enterprise or service provider edge environments.",
+    "interfaces": {
+      "gigabitEthernet": 6
+    },
+    "features": [
+      "High availability",
+      "Hardware-based encryption",
+      "Up to 20 Gbps throughput"
+    ]
+  },
+  {
+    "model": "Cisco ISR 4451-X",
+    "series": "ISR 4000 Series",
+    "description": "High-performance branch router with enhanced security and WAN optimization for large branch deployments.",
+    "interfaces": {
+      "gigabitEthernet": 4,
+      "NIMSlots": 3,
+      "SMSlots": 2
+    },
+    "features": [
+      "Up to 2 Gbps performance",
+      "Integrated threat defense",
+      "Flexible deployment options",
+      "Cloud services ready"
+    ]
+  },
+  {
+    "model": "Cisco ASR 1002-HX",
+    "series": "ASR 1000 Series",
+    "description": "Compact, high-performance edge router for enterprise and service provider WAN aggregation.",
+    "interfaces": {
+      "gigabitEthernet": 6
+    },
+    "features": [
+      "Up to 100 Gbps throughput",
+      "Built-in redundancy",
+      "Advanced encryption",
+      "Application-aware services"
+    ]
+  },
+  {
+    "model": "Cisco 891F",
+    "series": "800 Series",
+    "description": "Fixed-configuration integrated services router for secure broadband, Metro Ethernet, and wireless connectivity.",
+    "interfaces": {
+      "gigabitEthernet": 8
+    },
+    "features": [
+      "Integrated 3G/4G LTE support",
+      "WAN failover",
+      "Built-in firewall and VPN",
+      "Simple deployment for small branches"
+    ]
+  },
+  {
+    "model": "Cisco ISR 4221",
+    "series": "ISR 4000 Series",
+    "description": "Compact branch router designed for small branch offices, with advanced security and WAN services.",
+    "interfaces": {
+      "gigabitEthernet": 2,
+      "NIMSlots": 1,
+      "SMSlots": 0
+    },
+    "features": [
+      "Compact form factor",
+      "WAN optimization",
+      "Integrated services",
+      "Energy-efficient design"
+    ]
+  }
+]

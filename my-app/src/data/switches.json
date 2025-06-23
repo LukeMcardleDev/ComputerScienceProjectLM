@@ -1,0 +1,92 @@
+[
+  {
+    "model": "Cisco Catalyst 2960-X",
+    "series": "Catalyst 2000 Series",
+    "description": "A Layer 2 switch with basic Layer 3 features for enterprise access networks.",
+    "ports": 48,
+    "uplinks": 4,
+    "features": [
+      "LAN Base software",
+      "Energy Efficient Ethernet",
+      "Stacking support (FlexStack-Plus)"
+    ]
+  },
+  {
+    "model": "Cisco Catalyst 9300",
+    "series": "Catalyst 9000 Series",
+    "description": "Enterprise-class stackable switch built for security, IoT, and cloud.",
+    "ports": 48,
+    "uplinks": 4,
+    "features": [
+      "Full Layer 3 routing",
+      "Cisco DNA Center support",
+      "Advanced security and telemetry",
+      "Modular uplinks"
+    ]
+  },
+  {
+    "model": "Cisco Catalyst 3850",
+    "series": "Catalyst 3000 Series",
+    "description": "Stackable access and aggregation switch with integrated wireless controller capability.",
+    "ports": 48,
+    "uplinks": 4,
+    "features": [
+      "Layer 3 routing",
+      "Unified Access Data Plane",
+      "Cisco StackWise-480",
+      "Modular uplink options"
+    ]
+  },
+  {
+    "model": "Cisco Catalyst 3650",
+    "series": "Catalyst 3000 Series",
+    "description": "Next-generation standalone and stackable access-layer switch with integrated wireless controller.",
+    "ports": 24,
+    "uplinks": 4,
+    "features": [
+      "Integrated wireless controller",
+      "Layer 3 routing",
+      "StackWise-160 technology",
+      "Energy Efficient Ethernet"
+    ]
+  },
+  {
+    "model": "Cisco Catalyst 4500-X",
+    "series": "Catalyst 4000 Series",
+    "description": "Fixed aggregation switch for small and medium-sized campus cores and distribution networks.",
+    "ports": 16,
+    "uplinks": 2,
+    "features": [
+      "Layer 3 switching",
+      "Virtual Switching System (VSS)",
+      "Redundant power supply",
+      "Compact form factor"
+    ]
+  },
+  {
+    "model": "Cisco Catalyst 9500",
+    "series": "Catalyst 9000 Series",
+    "description": "High-performance core and aggregation switch designed for enterprise campus backbone networks.",
+    "ports": 40,
+    "uplinks": 4,
+    "features": [
+      "Full Layer 3 capabilities",
+      "High-density 40G/100G options",
+      "Cisco DNA Center integration",
+      "Advanced security and telemetry"
+    ]
+  },
+  {
+    "model": "Cisco Catalyst 9200",
+    "series": "Catalyst 9000 Series",
+    "description": "Affordable entry-level enterprise-class stackable switch for simple branch and campus access.",
+    "ports": 24,
+    "uplinks": 4,
+    "features": [
+      "Basic Layer 3 routing",
+      "Stacking support",
+      "Cisco DNA Center compatible",
+      "Enhanced security features"
+    ]
+  }
+]
